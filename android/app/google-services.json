@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "748017412399",
+    "project_id": "smart-carving-356711",
+    "storage_bucket": "smart-carving-356711.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748017412399:android:f53782eba9c390db1299da",
+        "android_client_info": {
+          "package_name": "com.example.speakify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748017412399-fu0ntonsd006rkot8i78dl1qbff3lvmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.speakify",
+            "certificate_hash": "c69921ae9d911f0699ee83df86cd7589a73e9c63"
+          }
+        },
+        {
+          "client_id": "748017412399-a3t2t659kmllg6rft86tgn5g5356p5o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhKsOP9-b83dx2cfEcVEfXPWVrKQjDKiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748017412399-a3t2t659kmllg6rft86tgn5g5356p5o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
